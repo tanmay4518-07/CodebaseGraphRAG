@@ -10,9 +10,6 @@ Standard Retrieval-Augmented Generation (RAG) is fundamentally flawed for comple
 
 This project solves codebase intelligence from first principles. It bypasses semantic shortcuts by engineering a **PageRank-Enriched GraphRAG system**. It extracts deterministic execution flows, maps them as a mathematical topology in Neo4j, calculates structural bottlenecks using Graph Data Science (GDS), and leverages Google's Gemini 3.5 Flash to synthesize absolute downstream impact analysis.
 
-<p align="center">
-  <img src="images/watermarked_img_17499787124708747930.png" alt="GraphRAG Architecture Diagram" width="800">
-</p>
 
 ## 🏗️ Architecture: The 4-Step Pipeline
 
